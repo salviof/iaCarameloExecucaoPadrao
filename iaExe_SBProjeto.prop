@@ -1,0 +1,11 @@
+VERSAO=1.0-SNAPSHOT
+NOME_PROJETO=modelRegras
+NOME_SOCIAL=iaCarameloExecucaoPadrao
+#PODE SER BIBLIOTECA, MOBILE, DESKTOP, OU WEB
+TIPO_PROJETO=jar
+ENDERECO_WEB=http://salviof.github.io/SuperBits_FrameWork
+NOME_CLIENTE=carameloCode
+GRUPO_PROJETO=iaCarameloExecucaoPadrao
+NOME_BANCO=iaExecucoesTeste
+DIRETORIO_BASE=
+GROUP_ID_MAVEN=br.org.carameloCode.erp.ia

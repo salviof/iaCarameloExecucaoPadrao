@@ -1,0 +1,9 @@
+package br.org.carameloCode.erp.modulo.ia.contexto.instrucaoia;
+
+import br.org.carameloCode.erp.modulo.ia.entidadesJPA.instrucao.InstrucaoIA;
+import com.super_bits.modulosSB.SBCore.modulos.objetos.InfoCampos.anotacoes.InfoReferenciaEntidade;
+
+@InfoReferenciaEntidade(tipoObjeto = InstrucaoIA.class)
+public enum ValoresLogicosInstrucaoIA {
+	CONTEUDO
+}
